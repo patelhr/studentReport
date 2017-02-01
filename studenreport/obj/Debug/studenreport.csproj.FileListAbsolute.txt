@@ -1,0 +1,6 @@
+D:\studenreport\studenreport\bin\Debug\studenreport.exe.config
+D:\studenreport\studenreport\bin\Debug\studenreport.exe
+D:\studenreport\studenreport\bin\Debug\studenreport.pdb
+D:\studenreport\studenreport\obj\Debug\studenreport.exe
+D:\studenreport\studenreport\obj\Debug\studenreport.pdb
+D:\studenreport\studenreport\obj\Debug\studenreport.csprojResolveAssemblyReference.cache
